@@ -18,9 +18,8 @@ Ha nem szeretnél foglalkozni a kód letöltésével és építésével, hanem c
 
 ```bash
 docker run -p 3000:3000 bereslacko/beadando-app:v1
+```
 
-Ezután nyisd meg a böngésződet ezen a címen: 👉 http://localhost:3000
+**Ezután nyisd meg a böngésződet ezen a címen: 👉 http://localhost:3000**
 
-(A leállításhoz a parancssorban nyomj Ctrl + C-t).
-
-
+**(A leállításhoz a parancssorban nyomj Ctrl + C-t).**
